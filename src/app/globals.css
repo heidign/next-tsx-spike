@@ -16,6 +16,10 @@
   }
 }
 
+/* html {
+  background-color: #E4E4E4;
+} */
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
